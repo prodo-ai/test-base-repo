@@ -1,0 +1,22 @@
+{
+  "name": "test-base-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Test passed\"" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdawes/test-base-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdawes/test-base-repo/issues"
+  },
+  "homepage": "https://github.com/tdawes/test-base-repo#readme"
+}
